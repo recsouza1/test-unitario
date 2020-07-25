@@ -5,7 +5,7 @@ public class MyFirstTest {
 
     @Test
     public void myFirstTest(){
-        boolean result = true;
+        boolean result = false;
         Assertions.assertTrue(result);
     }
 }
